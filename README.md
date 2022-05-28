@@ -1,1 +1,1 @@
-# git-pages-exaple
+# git-pages-example
